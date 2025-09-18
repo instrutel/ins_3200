@@ -1,0 +1,7 @@
+
+
+
+$OPEN,FILENAME$
+$READ$
+$WRIRE,DATA$
+$CLOSE$
